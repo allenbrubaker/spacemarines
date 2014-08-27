@@ -17,21 +17,21 @@ Space Marines is a two-dimensional shooter game in which the primary objective i
 
 **Firing 2**
 
-https://raw.github.com/allenbrubaker/spacemarines/master/Screenshots/firing2.png
+![ScreenShot](Screenshots/firing2.png)
 
 **Invisible**
 
-https://raw.github.com/allenbrubaker/spacemarines/master/Screenshots/invisible.png
+![ScreenShot](Screenshots/invisible.png)
 
 **Bomb**
 
-https://raw.github.com/allenbrubaker/spacemarines/master/Screenshots/bomb.png
+![ScreenShot](Screenshots/bomb.png)
 
 **Server Offline**
 
-https://raw.github.com/allenbrubaker/spacemarines/master/Screenshots/offline.png
+![ScreenShot](Screenshots/offline.png)
 
 **Server**
 
-https://raw.github.com/allenbrubaker/spacemarines/master/Screenshots/server.png
+![ScreenShot](Screenshots/server.png)
 
