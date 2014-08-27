@@ -11,9 +11,9 @@ Space Marines is a two-dimensional shooter game in which the primary objective i
 
 **Documents**
 
-![Final Paper](Documens/Final Paper.docx)
-![Final Paper](Documents/Final Paper.pdf)
-![Proposal](Documents/Proposal.docx)
+[Final Paper](Documens/Final Paper.docx)
+[Final Paper](Documents/Final Paper.pdf)
+[Proposal](Documents/Proposal.docx)
 
 **Screenshots**
 
