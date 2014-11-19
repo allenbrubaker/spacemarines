@@ -3,7 +3,7 @@ Space Marines
 
 **Abstract**
 
-Space Marines is a two-dimensional shooter whose aim is to provide a healthy conduit to the pursuit of happiness for all ages.  It is implemented using a distributed hybrid peer-to-peer architecture and seeks to abate the role of latency by utilizing concepts found in dead reckoning to extrapolate entity positioning.
+Space Marines is a two-dimensional multiplayer shooter whose aim is to provide a healthy conduit to the pursuit of happiness for all ages.  It is implemented using a distributed hybrid peer-to-peer architecture and seeks to abate the role of latency by utilizing concepts found in dead reckoning to extrapolate entity positioning.
 
 **Introduction**
 
